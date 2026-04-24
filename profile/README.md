@@ -20,7 +20,7 @@ UseCaseCore gives business actions one explicit, typed, transactional execution 
 
 ## Links
 
-- Website: https://usecasecore.com
+- Website: http://usecasecore.com
 - Repository: https://github.com/UseCaseCore/usecasecore
 - Preview: https://usecasecore.pages.dev
 
